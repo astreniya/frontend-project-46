@@ -1,6 +1,7 @@
 # Вычислитель отличий (JS)
 
 [![hexlet-check](https://github.com/astreniya/frontend-project-46/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/astreniya/frontend-project-46/actions)
+[![nodejs](https://github.com/astreniya/frontend-project-46/actions/workflows/nodejs.yml/badge.svg)](https://github.com/astreniya/frontend-project-46/actions)
 
 Узнаете, как создавать cli приложения, парсить и форматировать данные в json, yaml. Научитесь проектировать архитектуру приложений. А также писать unit-тесты.
 
@@ -23,6 +24,8 @@ cd frontend-project-46
 ## Использование
 
 <!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
+
+[![asciicast](https://asciinema.org/a/pGdeaKNBJIIEpDcy.svg)](https://asciinema.org/a/pGdeaKNBJIIEpDcy)
 
 ---
 

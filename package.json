@@ -1,0 +1,36 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "[![hexlet-check](https://github.com/astreniya/frontend-project-46/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/astreniya/frontend-project-46/actions)",
+  "main": "src/index.js",
+  "bin": {
+    "gendiff": "bin/gendiff.js"
+  },
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:coverage": "vitest run --coverage"
+  },
+  "dependencies": {
+    "commander": "^12.1.0",
+    "lodash": "^4.18.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astreniya/frontend-project-46.git"
+  },
+  "author": "astreniya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/astreniya/frontend-project-46/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/astreniya/frontend-project-46#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.39.5",
+    "eslint": "^9.39.5",
+    "globals": "^17.13.0",
+    "vitest": "^3.0.0",
+    "@vitest/coverage-v8": "^3.0.0"
+  }
+}
