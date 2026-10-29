@@ -1,7 +1,8 @@
 # Вычислитель отличий (JS)
 
 [![hexlet-check](https://github.com/astreniya/frontend-project-46/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/astreniya/frontend-project-46/actions)
-[![nodejs](https://github.com/astreniya/frontend-project-46/actions/workflows/nodejs.yml/badge.svg)](https://github.com/astreniya/frontend-project-46/actions)
+
+[![Node CI](https://github.com/astreniya/frontend-project-46/actions/workflows/nodejs.yml/badge.svg)](https://github.com/astreniya/frontend-project-46/actions/workflows/nodejs.yml)
 
 Узнаете, как создавать cli приложения, парсить и форматировать данные в json, yaml. Научитесь проектировать архитектуру приложений. А также писать unit-тесты.
 
@@ -27,6 +28,13 @@ cd frontend-project-46
 
 [![asciicast](https://asciinema.org/a/pGdeaKNBJIIEpDcy.svg)](https://asciinema.org/a/pGdeaKNBJIIEpDcy)
 
+[![asciicast](https://asciinema.org/a/kHtkLuxv8GeF6m6t.svg)](https://asciinema.org/a/kHtkLuxv8GeF6m6t)
+
+[![asciicast](https://asciinema.org/a/8lDTeeGQghrrOJeg.svg)](https://asciinema.org/a/8lDTeeGQghrrOJeg)
+
+[![asciicast](https://asciinema.org/a/HiTh6Ese934cfX5v.svg)](https://asciinema.org/a/HiTh6Ese934cfX5v)
+
+[![asciicast](https://asciinema.org/a/Y8yxMn4cUhrKwPDQ.svg)](https://asciinema.org/a/Y8yxMn4cUhrKwPDQ)
 ---
 
 <details>
