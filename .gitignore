@@ -2,6 +2,7 @@
 .gulp
 .idea
 .vscode
+coverage/
 
 # Node
 node_modules
